@@ -41,3 +41,11 @@
 
 
 [![fmarcelomorais](https://github-readme-stats.vercel.app/api/top-langs/?username=fmarcelomorais&hide=html&layout=compact&theme=dracula)](https://github.com/fmarcelomorais)
+
+## Visitas no pefil - Atividade
+
+<!-- visitors count  -->
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/fmarcelomorais/count.svg" />  
+</p>
