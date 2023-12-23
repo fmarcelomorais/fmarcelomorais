@@ -1,6 +1,12 @@
-##  Olá, meu nome é <strong>Marcelo!</strong>
+##  Olá, sou <strong>Marcelo Morais!</strong>
 
-> Sou um apaixonado pelo mundo de desenvolvimento e como a tecnologia pode mudar tudo ao nosso redor.
+### Sou um apaixonado pelo mundo de desenvolvimento e como a tecnologia pode mudar tudo ao nosso redor.
+> Desenvolvedor de software, analisando requisitos e implementando a solução 
+>conforme solicitado pela consultoria, ajustando bugs em códigos do sistema, 
+>atualizando versão de sistema.
+> Também venho desenvolvendo projetos pessoais para fortalecer meus 
+>conhencimentos em programação. Venho criando Api’s, integração com banco de 
+>dados e alguns sistemas fullstack.
 
 <a href="https://www.linkedin.com/in/marcelo-morais-242342224/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF"/>
