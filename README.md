@@ -8,7 +8,7 @@
 >conhencimentos em programação. Venho criando Api’s, integração com banco de 
 >dados e alguns sistemas fullstack.
 
->>
+----
 
 <a href="https://www.linkedin.com/in/marcelo-morais-242342224/" target="_blank" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF"/>
