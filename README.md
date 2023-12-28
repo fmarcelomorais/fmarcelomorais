@@ -1,12 +1,10 @@
 ##  Olá, sou <strong>Marcelo Morais!</strong>
 
 ### Sou um apaixonado pelo mundo de desenvolvimento e como a tecnologia pode mudar tudo ao nosso redor.
-> Desenvolvedor de software, analisando requisitos e implementando a solução 
->conforme solicitado pela consultoria, ajustando bugs em códigos do sistema, 
->atualizando versão de sistema.
-> Também venho desenvolvendo projetos pessoais para fortalecer meus 
->conhencimentos em programação. Venho criando Api’s, integração com banco de 
->dados e alguns sistemas fullstack.
+> Desenvolvedor de software trabalhando no back-end da aplicação, criando Api’s Rest usando linguagens de programação como Javascript ou Typescript em nodeJs.
+> Criando e populando banco de dados relacionais ou noSql.
+> Criando interfaces para projetos web usando React. Com conhecimentos em HTML, CSS, Bootstrap e Template Engine javascript para projetos no padrão MVC.
+
 
 ----
 
