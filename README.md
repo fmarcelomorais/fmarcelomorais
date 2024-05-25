@@ -1,9 +1,8 @@
 ##  Olá, sou <strong>Marcelo Morais!</strong>
 
 ### Sou um apaixonado pelo mundo de desenvolvimento e como a tecnologia pode mudar tudo ao nosso redor.
-> Desenvolvedor de software trabalhando no back-end da aplicação, criando Api’s Rest usando linguagens de programação como Javascript ou Typescript em nodeJs.
-> Criando e populando banco de dados relacionais ou noSql.
-> Criando interfaces para projetos web usando React. Com conhecimentos em HTML, CSS, Bootstrap e Template Engine javascript para projetos no padrão MVC.
+> Sou um desenvolvedor com ênfase em Full Stack, com vasta experiência em desenvolvimento web. Possuo sólido conhecimento nos paradigmas de programação funcional e orientado a objetos. Trabalho proficientemente com tecnologias como Node.js, .NET Core, JavaScript, TypeScript, C#, SQL, TDD e DDD. Além disso, tenho experiência em desenvolvimento frontend utilizando React.js, Bootstrap, HTML e CSS. Sou familiarizado com versionamento de códigos utilizando Git e Github. Estou comprometido em entregar soluções de alta qualidade e em acompanhar as melhores práticas de desenvolvimento para garantir a satisfação do cliente e o sucesso do projeto.
+Sou um adepto das melhores práticas de desenvolvimento, como Clean Code, TDD (Test-Driven Development), SOLID e DDD (Domain-Driven Design). Além disso, possuo sólidos conhecimentos em controle de versão com Git e utilizo o Gitflow como metodologia de desenvolvimento. Minha colaboração em projetos é facilitada por meio do GitHub, onde compartilho e contribuo com código de qualidade.
 
 
 ----
@@ -28,8 +27,8 @@
 
 ### Back-End
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="DotNet"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 
 ### Linguagens
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
